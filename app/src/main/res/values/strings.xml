@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alert Sample</string>
+    <string name="text">Alerta con las alertas</string>
+    <string name="alert_button">Alert</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_message">Click OK to continue, or don\'t</string>
+    <string name="ok_button">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
